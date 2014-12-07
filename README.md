@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Repoository of scripts supporting my coursework
+Repository of scripts supporting my coursework
